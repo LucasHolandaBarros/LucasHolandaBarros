@@ -7,7 +7,10 @@
 </div>
 
 <div style="display: inline_block"><br>
-          
-          
-  
+      <img align="center" height=30 width="40" src="./assets/icons/c-original.svg">     
+      <img align="center" height=30 width="40" src="./assets/icons/docker-original.svg">
+      <img align="center" height=30 width="40" src="./assets/icons/html5-original.svg"> 
+      <img align="center" height=30 width="40" src="./assets/icons/java-original.svg"> 
+      <img align="center" height=30 width="40" src="./assets/icons/python-original.svg"> 
+      <img align="center" height=30 width="40" src="./assets/icons/react-original.svg"> 
 </div>
