@@ -6,7 +6,7 @@
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHolandaBarros&layout=compact&langs_count=168&theme=dark&hide_border=true" />
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
       <img align="center" height=30 width="40" src="./assets/icons/c-original.svg">     
       <img align="center" height=30 width="40" src="./assets/icons/docker-original.svg">
       <img align="center" height=30 width="40" src="./assets/icons/html5-original.svg"> 
@@ -17,7 +17,7 @@
 
 ##
 
-<div>
+<div align="center">
   <a href="mailto:lucashbsoares@gmail.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-de-holanda-1357a8319" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
