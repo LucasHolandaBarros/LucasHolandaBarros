@@ -11,6 +11,7 @@
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasHolandaBarros&layout=compact&langs_count=168&theme=dark&hide_border=true" />
 </div>
 
+<br>
 <div style="display: inline_block" align="center"><br>
       <img align="center" height=30 width="40" src="./assets/icons/c-original.svg">     
       <img align="center" height=30 width="40" src="./assets/icons/docker-original.svg">
