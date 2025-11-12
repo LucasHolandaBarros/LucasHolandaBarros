@@ -1,4 +1,9 @@
-## Olá! Me chamo Lucas de Holanda
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff7b&height=100&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff7b&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Lucas+de+Holanda;)](https://git.io/typing-svg)
+<br>
+##
+<br>
 
 <div align="center">
   <a href="hhtps://github.com/LucasHolandaBarros">
@@ -21,3 +26,5 @@
   <a href="mailto:lucashbsoares@gmail.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-de-holanda-1357a8319" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff7b&height=100&section=footer"/>
